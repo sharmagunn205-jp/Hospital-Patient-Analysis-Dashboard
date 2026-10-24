@@ -1,0 +1,100 @@
+{
+  "name": "Hospital Navy",
+  "dataColors": [
+    "#2DD4BF",
+    "#38BDF8",
+    "#FBBF24",
+    "#FB7185",
+    "#A78BFA",
+    "#4ADE80",
+    "#F97316",
+    "#E879F9",
+    "#22D3EE",
+    "#A3E635",
+    "#F472B6",
+    "#818CF8"
+  ],
+  "background": "#1D2E80",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#2DD4BF",
+  "good": "#4ADE80",
+  "neutral": "#FBBF24",
+  "bad": "#FB7185",
+  "maximum": "#2DD4BF",
+  "center": "#FBBF24",
+  "minimum": "#FB7185",
+  "textClasses": {
+    "callout": {
+      "fontSize": 30,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#FFFFFF"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI",
+      "color": "#C7D2FE"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#C7D2FE"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#C7D2FE"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A4DA8"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#C7D2FE"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#3A4DA8"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#C7D2FE"
+              }
+            }
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
